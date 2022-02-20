@@ -27,5 +27,8 @@ public class BrowserConfig {
 		driver.quit();
 
 	}
+	public void gihubDemo() {
+		//this is my github clone/pull/push
+	}
 
 }
